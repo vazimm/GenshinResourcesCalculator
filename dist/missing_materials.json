@@ -1,0 +1,112 @@
+{
+  "name": "Furina",
+  "ascension": {
+    "varunada_lazurite": {
+      "sliver": {
+        "required": 3,
+        "obtained": 0,
+        "remaining": 3
+      },
+      "fragment": {
+        "required": 9,
+        "obtained": 6,
+        "remaining": 3
+      },
+      "chunk": {
+        "required": 9,
+        "obtained": 6,
+        "remaining": 3
+      },
+      "gemstone": {
+        "required": 6,
+        "obtained": 0,
+        "remaining": 6
+      }
+    },
+    "nectar": {
+      "whopperflower_nectar": {
+        "required": 18,
+        "obtained": 0,
+        "remaining": 18
+      },
+      "shimmering_nectar": {
+        "required": 30,
+        "obtained": 0,
+        "remaining": 30
+      },
+      "energy_nectar": {
+        "required": 36,
+        "obtained": 0,
+        "remaining": 36
+      }
+    },
+    "mora": {
+      "required": 420000,
+      "obtained": 0,
+      "remaining": 420000
+    },
+    "lakelight_lily": {
+      "required": 168,
+      "obtained": 0,
+      "remaining": 168
+    },
+    "water_failed_transcend": {
+      "required": 46,
+      "obtained": 0,
+      "remaining": 46
+    }
+  },
+  "talents": {
+    "nectar": {
+      "whopperflower_nectar": {
+        "required": 18,
+        "obtained": 0,
+        "remaining": 18
+      },
+      "shimmering_nectar": {
+        "required": 66,
+        "obtained": 0,
+        "remaining": 66
+      },
+      "energy_nectar": {
+        "required": 93,
+        "obtained": 0,
+        "remaining": 93
+      }
+    },
+    "mora": {
+      "required": 4957000,
+      "obtained": 0,
+      "remaining": 4957000
+    },
+    "crown_of_insight": {
+      "required": 3,
+      "obtained": 0,
+      "remaining": 3
+    },
+    "scrolls_of_justice": {
+      "philosophies": {
+        "required": 114,
+        "obtained": 0,
+        "remaining": 114
+      },
+      "guide": {
+        "required": 63,
+        "obtained": 0,
+        "remaining": 63
+      },
+      "teachings": {
+        "required": 9,
+        "obtained": 0,
+        "remaining": 9
+      }
+    },
+    "boss_items": {
+      "lightless_mass": {
+        "required": 18,
+        "obtained": 0,
+        "remaining": 18
+      }
+    }
+  }
+}
